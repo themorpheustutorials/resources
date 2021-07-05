@@ -6,3 +6,4 @@
 - [Ben Eater: 8bit-Computer](https://www.youtube.com/playlist?list=PLowKtXNTBypGqImE405J2565dvjafglHU)
 - [Ben Eater: 6502 Microprocessor based Computer](https://www.youtube.com/playlist?list=PLowKtXNTBypFbtuVMUVXNR0z1mu7dp7eH)
   - [6502 CPU in C++](https://www.youtube.com/watch?v=qJgsuQoy9bc&list=PLLwK93hM93Z13TRzPx9JqTIn33feefl37)
+- [https://www.elektronik-kompendium.de/](https://www.elektronik-kompendium.de/)
