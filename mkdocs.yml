@@ -60,3 +60,4 @@ nav:
     - 'Raspberry PI': hardware/raspberry-pi.md
     - 'Elektrotechnik': hardware/elektrotechnik.md
   - 'Netzwerktechnik': netzwerktechnik.md
+  - 'Mathematik': mathematik.md
