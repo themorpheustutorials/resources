@@ -54,9 +54,11 @@ nav:
     - 'Linux': software/linux.md
     - 'Windows': software/windows.md
     - 'BSD': software/bsd.md
+    - 'WebDev': software/webdev.md
   - 'Hardware':
     - 'PC Hardware': hardware/pc.md
     - 'Arduino': hardware/arduino.md
     - 'Raspberry PI': hardware/raspberry-pi.md
     - 'Elektrotechnik': hardware/elektrotechnik.md
   - 'Netzwerktechnik': netzwerktechnik.md
+  - 'Mathematik': mathematik.md
