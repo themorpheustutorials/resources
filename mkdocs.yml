@@ -54,6 +54,7 @@ nav:
     - 'Linux': software/linux.md
     - 'Windows': software/windows.md
     - 'BSD': software/bsd.md
+    - 'WebDev': software/webdev.md
   - 'Hardware':
     - 'PC Hardware': hardware/pc.md
     - 'Arduino': hardware/arduino.md
