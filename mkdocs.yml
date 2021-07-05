@@ -1,0 +1,61 @@
+
+site_name: The Morpheus Tutorials Resources
+site_url: https://resources.the-morpheus.de/
+repo_name: themorpheustutorials/resources
+repo_url: https://github.com/themorpheustutorials/resources
+site_description: "Resources from the community, for the community."
+site_author: https://github.com/themorpheustutorials
+remote_branch: main
+edit_uri: edit/master/docs
+
+theme:
+  name: 'material'
+  palette:
+    scheme: preference
+    primary: 'green'
+    accent: 'lime'
+
+  font:
+    text: Roboto
+    code: Roboto Mono
+
+  language: en
+  direction: ltr
+  icon:
+    repo: fontawesome/brands/github
+
+  features:
+    - search.suggest
+    - search.highlight
+    - navigation.expand
+    - navigation.instant
+    - navigation.sections
+
+markdown_extensions:
+  - toc:
+      permalink: true
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - admonition
+  - pymdownx.tabbed
+  - attr_list
+  - pymdownx.arithmatex:
+      generic: true
+
+plugins:
+  - git-revision-date
+  - search:
+      lang: de
+
+nav:
+  - 'Allgemeines': index.md
+  - 'Software':
+    - 'Linux': software/linux.md
+    - 'Windows': software/windows.md
+    - 'BSD': software/bsd.md
+  - 'Hardware':
+    - 'PC Hardware': hardware/pc.md
+    - 'Arduino': hardware/arduino.md
+    - 'Raspberry PI': hardware/raspberry-pi.md
+    - 'Elektrotechnik': hardware/elektrotechnik.md
+  - 'Netzwerktechnik': netzwerktechnik.md
