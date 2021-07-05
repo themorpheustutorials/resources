@@ -49,6 +49,7 @@ plugins:
 
 nav:
   - 'Allgemeines': index.md
+  - 'Unsortiert': unsortiert.md
   - 'Software':
     - 'Linux': software/linux.md
     - 'Windows': software/windows.md
