@@ -1,0 +1,8 @@
+- [DARC Online Lehrgang Amateurfunklizenz](https://www.darc.de/der-club/referate/ajw/darc-online-lehrgang/) (Klasse E, Grundlagen Elektrotechnik)
+- [Helmut Schmidt Universität](https://www.hsu-hh.de/get/lehre/repetitorium) (Grundlagen Elektrotechnik, Videos)
+- [Mitschriften Studium Elektrotechnik](https://fkurz.net/et/)
+- [Ben Eater: Grundlagen Digitaltechnik](https://www.youtube.com/playlist?list=PLowKtXNTBypETld5oX1ZMI-LYoA2LWi8D)
+- [Ben Eater: Logic Gates from Transistors](https://www.youtube.com/watch?v=sTu3LwpF6XI)
+- [Ben Eater: 8bit-Computer](https://www.youtube.com/playlist?list=PLowKtXNTBypGqImE405J2565dvjafglHU)
+- [Ben Eater: 6502 Microprocessor based Computer](https://www.youtube.com/playlist?list=PLowKtXNTBypFbtuVMUVXNR0z1mu7dp7eH)
+  - [6502 CPU in C++](https://www.youtube.com/watch?v=qJgsuQoy9bc&list=PLLwK93hM93Z13TRzPx9JqTIn33feefl37)
