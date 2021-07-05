@@ -1,23 +1,6 @@
 !!! warning ""
     Keine neuen Informationen hinzufügen! Nur zur Übernahme des Discord Channels erstellt!
 
---- 
-
-**IT Security**
-- Ippsec (HackTheBox Video Writeups): https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA + https://ippsec.rocks/  
-- LiveOverflow (CTF's, Binary Exploitation): https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w  
-- 13Cubed (IT Forensics): https://www.youtube.com/channel/UCy8ntxFEudOCRZYT1f7ya9Q  
-- HackTheBox Academy (Free Fundamental Courses): [z.B. Networking, Linux, Windows, Web Requests, File Transferes, SQL Injections, File Inclusion / Directory   Traversal / Buffer Overflows]  
-- John Hammond (CTFs, Malware Analysis und HTB): https://www.youtube.com/user/RootOfTheNull  
-- Virtual Memory: https://www.youtube.com/watch?v=qcBIvnQt0Bw&list=PLiwt1iVUib9s2Uo5BeYmwkDFUh70fJPxX  
-- https://book.hacktricks.xyz/  
-- https://microcorruption.com/login  
-- https://sockpuppet.org/issue-79-file-0xb-foxport-hht-hacking.txt.html  
-
-- Tutorials wie man seine Nutzerkonton bei einigen Services löscht: https://justdeleteme.xyz/  
-
----
-
 - Selfhosting Anwendungen: https://github.com/awesome-selfhosted/awesome-selfhosted  
 - Auflistung weitere "Github Awesome" Repositories: https://github.com/sindresorhus/awesome  
 
@@ -30,35 +13,8 @@
 
 ---
 
-- Linux Teaching, lerne den Kernel von Linux genauer kennen: https://linux-kernel-labs.github.io/refs/heads/master/index.html  
-- Dazu passt auch noch das hier ganz gut: https://github.com/s-matyukevich/raspberry-pi-os  
-- Learn how to contribute to the linux kernel! https://kernelnewbies.org/  
-
----
-
 - Infos zur Advanced-Search mit Google: https://www.google.com/advanced_search  
 - Infos zur Advanced-Search mit Duck Duck Go: https://help.duckduckgo.com/results/syntax/?redir=1  
-
----
-
-**Openbooks**:
-- Rheinwerk: https://www.rheinwerk-verlag.de/openbook/  
-- O'Reilly: https://www.oreilly.com/openbook/  
-- dpunkt: https://dpunkt.de/openbooks/  
-
----
-
-**backend web stuff**
-- https://www.geeksforgeeks.org/awk-command-unixlinux-examples/  
-- https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow  
-- https://www.youtube.com/watch?v=ztHopE5Wnpc  
-- https://www.youtube.com/watch?v=BfEjDD8mWYg  
-- https://www.coursera.org/learn/html-css-javascript-for-web-developers  
-- https://reactjs.org/docs/getting-started.html  
-- https://roadmap.sh/backend  
-- https://stackoverflow.com/questions/43990459/how-to-create-tables-with-nm-relationship-in-mysql  
-- https://security.stackexchange.com/questions/1257/best-practises-for-preventing-sql-injection  
-- https://cheatsheetseries.owasp.org/cheatsheets/SQL_Injection_Prevention_Cheat_Sheet.html  
 
 ---
 
@@ -103,12 +59,12 @@ Inhalte für AI mit Python:
 - sklearn: https://scikit-learn.org/stable/modules/classes.html  
 - tensorflow: https://www.tensorflow.org/versions  
 
-Bücher zu AI
-- Stuart Russell und Peter Norvig "Artificial Intelligence: A Modern Approach"
-
 ---
     
 - Privatsphäre: https://www.privacytools.io/
+
+- Tutorials wie man seine Nutzerkonton bei einigen Services löscht: https://justdeleteme.xyz/  
+
 
 Hier das datenschutz ist wichtig paket:  
 - https://www.youtube.com/watch?v=6fNF80vVCsU oder https://www.youtube.com/watch?v=ecmMXWLudpI  
@@ -126,25 +82,6 @@ Wenn man ein Google Konto hat und personalisierte Werbung aktiv hat sollte man s
 
 ---
     
-Für Frontend /UI/UX :
-
-https://www.notion.so/Oh-hi-Designer-6213344fbe2148a5a9dd1552e6df58be – UX Ressourcen
-
-https://bennettfeely.com/clippy/ – Clip Path für CSS  
-https://9elements.github.io/fancy-border-radius/ – Fancy Border Radius für CSS  
-  
-https://glassmorphism.com/ – Für Glassmorphism UI  
-https://animista.net/ – Kann man selbst Animationen für CSS erstellen  
-https://flatuicolors.com/ – Flat UI Color Paletten (vorgefertigt)  
-https://cssgradient.io/ – CSS Gradient Generator  
-https://uigradients.com/#KyeMeh – CSS Gradients (vorgefertigt)   
-
-https://flexboxfroggy.com/#de – Ganz nettes Spiel um CSS Flexbox zu lernen  
-https://flukeout.github.io/ – Nettes Spiel um CSS Attribute zu lernen (auch komplexer)  
-https://grid.layoutit.com/ – CSS Grid Generator  
-    
----
-
 - Gute Erklärungen mit Snippets zu verschiedenen Design Patterns und Principles                        |  https://deviq.com/  
 - Ebenfalls viele gute Anleitungen zu Design Patterns und zu Refactoring mit Codebeispielen    |  https://refactoring.guru/  
 - Onlinetool um schnell und sehr einfach JSON Objekte mit realistischen Daten zu generieren  | https://www.json-generator.com/  

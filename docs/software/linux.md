@@ -1,0 +1,3 @@
+- Linux Teaching, lerne den Kernel von Linux genauer kennen: [https://linux-kernel-labs.github.io/refs/heads/master/index.html](https://linux-kernel-labs.github.io/refs/heads/master/index.html)  
+- [https://github.com/s-matyukevich/raspberry-pi-os](https://github.com/s-matyukevich/raspberry-pi-os)  
+- Learn how to contribute to the linux kernel! [https://kernelnewbies.org/](https://kernelnewbies.org/)  
