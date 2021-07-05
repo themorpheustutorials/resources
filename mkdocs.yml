@@ -6,7 +6,7 @@ repo_url: https://github.com/themorpheustutorials/resources
 site_description: "Resources from the community, for the community."
 site_author: https://github.com/themorpheustutorials
 remote_branch: main
-edit_uri: edit/master/docs
+edit_uri: edit/main/docs
 
 theme:
   name: 'material'
