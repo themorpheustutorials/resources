@@ -1,6 +1,6 @@
-- http://daemonforums.org/ # Ein Forum fuer die gaengisten BSD Derivate (Open-, Net- und FreeBSD).  
-- https://github.com/rangaeeeee/books-bsd # Sehr gute Buecher ueber Free- und OpenBSD.  
-- https://www.vultr.com/docs/category/bsd/ # Ist fuer Anfaenger ganz gut, da hier so manche Vorgaenge leicht erklaert werden (z.B. die Verwendung von doas).  
+- [http://daemonforums.org/](http://daemonforums.org/) # Ein Forum fuer die gaengisten BSD Derivate (Open-, Net- und FreeBSD).  
+- [https://github.com/rangaeeeee/books-bsd](https://github.com/rangaeeeee/books-bsd) # Sehr gute Buecher ueber Free- und OpenBSD.  
+- [https://www.vultr.com/docs/category/bsd/](https://www.vultr.com/docs/category/bsd/) # Ist fuer Anfaenger ganz gut, da hier so manche Vorgaenge leicht erklaert werden (z.B. die Verwendung von doas).  
 
 ## OpenBSD
 - [Einstieg in OpenBSD (Installation, Package Management, ...)](https://www.openbsdhandbook.com/)
