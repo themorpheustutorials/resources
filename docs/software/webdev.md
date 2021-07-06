@@ -13,7 +13,10 @@
 
 - [https://flexboxfroggy.com/#de](https://flexboxfroggy.com/#de) – Ganz nettes Spiel um CSS Flexbox zu lernen  
 - [https://flukeout.github.io/](https://flukeout.github.io/) – Nettes Spiel um CSS Attribute zu lernen (auch komplexer)  
-- [https://grid.layoutit.com/](https://flukeout.github.io/) – CSS Grid Generator  
+- [https://grid.layoutit.com/](https://flukeout.github.io/) – CSS Grid Generator 
+- [https://deviq.com/](https://deviq.com/) – Gute Erklärungen mit Snippets zu verschiedenen Design Patterns und Principles     
+- [https://refactoring.guru/](https://refactoring.guru/) – gute Anleitungen zu Design Patterns und zu Refactoring mit Codebeispielen
+
 
 ## Backend
 
