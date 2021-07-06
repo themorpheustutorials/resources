@@ -2,3 +2,4 @@
 - [https://www.youtube.com/watch?v=ecmMXWLudpI](https://www.youtube.com/watch?v=ecmMXWLudpI)  
 - [https://www.youtube.com/watch?v=l01LR9CTA6s](https://www.youtube.com/watch?v=l01LR9CTA6s)  
 - The Hated One: [https://www.youtube.com/channel/UCjr2bPAyPV7t35MvcgT3W8Q](https://www.youtube.com/channel/UCjr2bPAyPV7t35MvcgT3W8Q)  
+- [https://www.privacytools.io/](https://www.privacytools.io/)
