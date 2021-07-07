@@ -1,4 +1,3 @@
-
 site_name: The Morpheus Tutorials Resources
 site_url: https://resources.the-morpheus.de/
 repo_name: themorpheustutorials/resources
@@ -49,7 +48,6 @@ plugins:
 
 nav:
   - 'Allgemeines': index.md
-  - 'Unsortiert': unsortiert.md
   - 'Software':
     - 'Linux': software/linux.md
     - 'Windows': software/windows.md
