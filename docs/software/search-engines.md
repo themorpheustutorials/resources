@@ -1,0 +1,2 @@
+- Infos zur Advanced-Search mit Google: https://www.google.com/advanced_search  
+- Infos zur Advanced-Search mit Duck Duck Go: https://help.duckduckgo.com/results/syntax/?redir=1  
