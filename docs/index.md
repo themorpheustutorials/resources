@@ -5,4 +5,4 @@ Ihr könnt durch Pull Requests auf Github eigene Resourcen hinzufügen.
 - Crash Course, kurse zu fast allem, von Philosophie zu Physik und Informatik.  
 [https://www.youtube.com/channel/UCX6b17PVsYBQ0ip5gyeme-Q](https://www.youtube.com/channel/UCX6b17PVsYBQ0ip5gyeme-Q) 
 
-- SemperVideo (Alles in Richtung Informatik): https://www.youtube.com/user/SemperVideo  
+- SemperVideo (Alles in Richtung Informatik): [https://www.youtube.com/user/SemperVideo](https://www.youtube.com/user/SemperVideo)
