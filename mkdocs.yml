@@ -49,9 +49,11 @@ plugins:
 nav:
   - 'Allgemeines': index.md
   - 'Software':
-    - 'Linux': software/linux.md
-    - 'Windows': software/windows.md
+    - 'AI': software/ai.md
     - 'BSD': software/bsd.md
+    - 'Linux': software/linux.md
+    - 'Search Engines': software/search-engines.md
+    - 'Windows': software/windows.md
     - 'WebDev': software/webdev.md
   - 'Hardware':
     - 'PC Hardware': hardware/pc.md
@@ -62,3 +64,4 @@ nav:
   - 'Netzwerktechnik': netzwerktechnik.md
   - 'Mathematik': mathematik.md
   - 'Bücher': books.md
+  - 'Privacy': privacy.md
