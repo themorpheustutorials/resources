@@ -13,7 +13,7 @@ Mein Mathecarrypaket für das erste und zweite Semester an der Uni :
 - Englischer Mathechannel gut für Linalg etc.: [https://www.youtube.com/c/brightsideofmaths/videos](https://www.youtube.com/c/brightsideofmaths/videos)  
 - Tricks und Tipps rund um Mathe & keiner kann so gute Salti machen wie er: [https://www.youtube.com/channel/UC6jM0RFkr4eSkzT5Gx0HOAw](https://www.youtube.com/channel/UC6jM0RFkr4eSkzT5Gx0HOAw)  
 - Nachschlagewerk sehr genau und hat mir mega bei abstrakten Konzepten wie z.B. Epsilondelta Kriterium der Stetigkeit geholfen:  
-- [https://de.wikibooks.org/wiki/Mathe](https://de.wikibooks.org/wiki/Mathe)_f%C3%BCr_Nicht-Freaks ( am besten finde ich hier das Grundlagen Lehrbuch, schaue ich immer mal wieder rein)  
+- [https://de.wikibooks.org/wiki/Mathe_f%C3%BCr_Nicht-Freaks](https://de.wikibooks.org/wiki/Mathe_f%C3%BCr_Nicht-Freaks) ( am besten finde ich hier das Grundlagen Lehrbuch, schaue ich immer mal wieder rein)  
 - Abstrakte mathematische Konzepte grandios visualisiert (englisch): [https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)  
 - Der Mann für Integrale, Diffgleichungen etc (englisch): [https://www.youtube.com/channel/UC_SvYP0k05UKiJ_2ndB02IA](https://www.youtube.com/channel/UC_SvYP0k05UKiJ_2ndB02IA)  
 
