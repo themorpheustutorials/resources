@@ -1,18 +1,4 @@
-derek banana macht gerade videos über mathe. Habs mir noch nich angeschaut aber hatte bis jetzt gute efahrung mit seine
-videos gemacht.
-
-- Linear
-  algebra: [https://www.youtube.com/watch?v=6GnzRGJsI3Q&list=PLGLfVvz_LVvQNOt6xlugFm3LmTYo5g_7i](https://www.youtube.com/watch?v=6GnzRGJsI3Q&list=PLGLfVvz_LVvQNOt6xlugFm3LmTYo5g_7i)
-- Precalculus und
-  so: [https://www.youtube.com/watch?v=Yh5hnKeTUrk&list=PLGLfVvz_LVvTuneKyy1KM9j8zbZZK5me-](https://www.youtube.com/watch?v=Yh5hnKeTUrk&list=PLGLfVvz_LVvTuneKyy1KM9j8zbZZK5me-)
--
-Trigonometrie: [https://www.youtube.com/watch?v=bbvJj5YvCgA&list=PLGLfVvz_LVvRqtBQ43Qb7KXsUbEAMC3Vq](https://www.youtube.com/watch?v=bbvJj5YvCgA&list=PLGLfVvz_LVvRqtBQ43Qb7KXsUbEAMC3Vq)
--
-Probability: [https://www.youtube.com/watch?v=sEte4hXEgJ8&list=PLGLfVvz_LVvQy4mkmEvtFwZGg1S38MUmn&index=1](https://www.youtube.com/watch?v=sEte4hXEgJ8&list=PLGLfVvz_LVvQy4mkmEvtFwZGg1S38MUmn&index=1)
--
-Statistics: [https://www.youtube.com/watch?v=tcusIOfI_GM&list=PLGLfVvz_LVvQy4mkmEvtFwZGg1S38MUmn&index=2](https://www.youtube.com/watch?v=tcusIOfI_GM&list=PLGLfVvz_LVvQy4mkmEvtFwZGg1S38MUmn&index=2)
-
-Mein Mathecarrypaket für das erste und zweite Semester an der Uni :
+## Mathecarrypaket für das erste und zweite Semester an der Uni
 
 - Beweise in angenehmen Tempo mit deutlicher Erläuterung ( 1.5 fach
   Speed ): [https://www.youtube.com/c/IngmatheDe/playlists](https://www.youtube.com/c/IngmatheDe/playlists)
@@ -28,16 +14,23 @@ Mein Mathecarrypaket für das erste und zweite Semester an der Uni :
   englisch): [https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
 - Der Mann für Integrale, Diffgleichungen etc (
   englisch): [https://www.youtube.com/channel/UC_SvYP0k05UKiJ_2ndB02IA](https://www.youtube.com/channel/UC_SvYP0k05UKiJ_2ndB02IA)
-
-- Bücher gibts leider so viele, lohnt nicht die aufzuzählen außer für die Hartgesottenen :
-- Linalg :  Bosch
-- Analysis: Königsberger , Otto Forster
-- Mathematische Beweise : How to think mathematically von Kevin Houston
   
   
 ### Youtube Kanäle, die einen Blick Wert sind  
 - [DorFuchs](https://www.youtube.com/user/DorFuchs) (Mathematik und Musik vereint)
 - [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) (Schwierige Probleme einfacher erklärt mit [Manim](https://github.com/3b1b/manim))
+- [Derek Banas](https://www.youtube.com/c/derekbanas)
+  - [Triogonometry](https://www.youtube.com/watch?v=bbvJj5YvCgA&list=PLGLfVvz_LVvRqtBQ43Qb7KXsUbEAMC3Vq&ab_channel=DerekBanas)
+  - [Linear algebra](https://www.youtube.com/watch?v=6GnzRGJsI3Q&list=PLGLfVvz_LVvQNOt6xlugFm3LmTYo5g_7i&ab_channel=DerekBanas)
+  - [Precalculus](https://www.youtube.com/watch?v=Yh5hnKeTUrk&list=PLGLfVvz_LVvTuneKyy1KM9j8zbZZK5me-&ab_channel=DerekBanas)
+  - [Probability](https://www.youtube.com/watch?v=sEte4hXEgJ8&list=PLGLfVvz_LVvQy4mkmEvtFwZGg1S38MUmn&index=2&ab_channel=DerekBanas)
+  - [Statistiken](https://www.youtube.com/watch?v=tcusIOfI_GM&list=PLGLfVvz_LVvQy4mkmEvtFwZGg1S38MUmn&index=2&ab_channel=DerekBanas)
+  
+  
+### Bücher
+- Lineare Algebra: Bosch
+- Analysis: Königsberger, Otto Forster
+- Mathematische Beweise: How to think mathematically von Kevin Houston
 
 Viel spaß mit dem Stuff achso hier kann man auch mal einen Blick
 reinwerfen: [https://de.wikiversity.org/wiki/Mathematik](https://de.wikiversity.org/wiki/Mathematik)   
