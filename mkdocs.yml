@@ -1,4 +1,3 @@
-
 site_name: The Morpheus Tutorials Resources
 site_url: https://resources.the-morpheus.de/
 repo_name: themorpheustutorials/resources
@@ -49,18 +48,22 @@ plugins:
 
 nav:
   - 'Allgemeines': index.md
-  - 'Unsortiert': unsortiert.md
   - 'Software':
-    - 'Linux': software/linux.md
-    - 'Windows': software/windows.md
-    - 'BSD': software/bsd.md
-    - 'WebDev': software/webdev.md
+      - 'Software Engenering': software/software-engenering.md
+      - 'Tools': software/tools.md
+      - 'AI': software/ai.md
+      - 'BSD': software/bsd.md
+      - 'Linux': software/linux.md
+      - 'Search Engines': software/search-engines.md
+      - 'Windows': software/windows.md
+      - 'WebDev': software/webdev.md
   - 'Hardware':
-    - 'PC Hardware': hardware/pc.md
-    - 'Arduino': hardware/arduino.md
-    - 'Raspberry PI': hardware/raspberry-pi.md
-    - 'Elektrotechnik': hardware/elektrotechnik.md
+      - 'PC Hardware': hardware/pc.md
+      - 'Arduino': hardware/arduino.md
+      - 'Raspberry PI': hardware/raspberry-pi.md
+      - 'Elektrotechnik': hardware/elektrotechnik.md
   - 'IT-Security': it-security.md
   - 'Netzwerktechnik': netzwerktechnik.md
   - 'Mathematik': mathematik.md
   - 'Bücher': books.md
+  - 'Privacy': privacy.md
