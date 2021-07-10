@@ -28,9 +28,9 @@
   
   
 ### Bücher
-- Lineare Algebra: Bosch
-- Analysis: Königsberger, Otto Forster
-- Mathematische Beweise: How to think mathematically von Kevin Houston
+- [Lineare Algebra: Bosch](https://www.springer.com/de/book/9783642552601)
+- [Analysis: Königsberger](https://www.springer.com/de/book/9783540403715), [Otto Forster](https://www.springer.com/de/book/9783658167455)
+- [Mathematische Beweise: How to think mathematically von Kevin Houston](https://www.amazon.de/How-Think-Like-Mathematician-Undergraduate/dp/052171978X)
 
 Viel spaß mit dem Stuff achso hier kann man auch mal einen Blick
 reinwerfen: [https://de.wikiversity.org/wiki/Mathematik](https://de.wikiversity.org/wiki/Mathematik)   
