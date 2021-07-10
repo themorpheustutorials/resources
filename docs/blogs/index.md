@@ -6,6 +6,7 @@
 - [dev.to](https://dev.to/)
 - [Free Code Camp](https://www.freecodecamp.org/)
 - [Opensource](https://opensource.com/)
+- [Stackoverflow](https://stackoverflow.blog/)
 
 ### Data Science
 - Data Science: [Towards Data Science](https://towardsdatascience.com/)
