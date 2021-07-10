@@ -51,6 +51,7 @@ nav:
   - 'Blogs':
       - 'Allgemeine Blogs': blogs/index.md
       - 'Python': blogs/python.md
+      - 'Web Entwicklung (Client)': blogs/web-client.md
   - 'Software':
       - 'Software Engenering': software/software-engenering.md
       - 'Tools': software/tools.md
