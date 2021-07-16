@@ -7,6 +7,8 @@
   Forensics): [https://www.youtube.com/channel/UCy8ntxFEudOCRZYT1f7ya9Q](https://www.youtube.com/channel/UCy8ntxFEudOCRZYT1f7ya9Q)
 - [HackTheBox Academy](https://academy.hackthebox.eu) (Free Fundamental
   Courses): [z.B. Networking, Linux, Windows, Web Requests, File Transferes, SQL Injections, File Inclusion / Directory   Traversal / Buffer Overflows]
+- [TryHackMe](https://tryhackme.com/) (Free Fundamental
+  Courses, ähnlich zu HackTheBox): [z.B. Networking, Linux, Windows, Web Requests, File Transferes, SQL Injections, File Inclusion / Directory   Traversal / Buffer Overflows]
 - John Hammond (CTFs, Malware Analysis und
   HTB): [https://www.youtube.com/user/RootOfTheNull](https://www.youtube.com/user/RootOfTheNull)
 - Virtual
