@@ -27,3 +27,4 @@
 - [security.stackexchange.com/questions/1257/best-practises-for-preventing-sql-injection](https://security.stackexchange.com/questions/1257/best-practises-for-preventing-sql-injection)  
 - [cheatsheetseries.owasp.org/cheatsheets/SQL_Injection_Prevention_Cheat_Sheet.html](https://cheatsheetseries.owasp.org/cheatsheets/SQL_Injection_Prevention_Cheat_Sheet.html)  
 - [doc.nette.org/en/3.1/php-generator](https://doc.nette.org/en/3.1/php-generator): Über PHP per Klassen dynamisch Code generieren. Kann z.b. für Entity Deserialisierung interessant sein. Auf der Seite gibts noch weiter spannende Libs für PHP.
+- [https://www.youtube.com/watch?v=XVv6mJpFOb0](https://www.youtube.com/watch?v=XVv6mJpFOb0): Grundlagen für Web Scraping mit Python.
