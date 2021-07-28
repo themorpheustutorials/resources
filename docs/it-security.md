@@ -1,16 +1,14 @@
-- Ippsec (HackTheBox Video
-  Writeups): [youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA)
-  + [ippsec.rocks/](https://ippsec.rocks/)
+- Ippsec (HackTheBox Video Writeups): [https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA)
+  + [https://ippsec.rocks/](https://ippsec.rocks/)
 - LiveOverflow (CTF's, Binary
-  Exploitation): [youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
+  Exploitation): [https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
 - 13Cubed (IT
-  Forensics): [www.youtube.com/channel/UCy8ntxFEudOCRZYT1f7ya9Q](https://www.youtube.com/channel/UCy8ntxFEudOCRZYT1f7ya9Q)
+  Forensics): [https://www.youtube.com/channel/UCy8ntxFEudOCRZYT1f7ya9Q](https://www.youtube.com/channel/UCy8ntxFEudOCRZYT1f7ya9Q)
 - [HackTheBox Academy](https://academy.hackthebox.eu) (Free Fundamental
   Courses): [z.B. Networking, Linux, Windows, Web Requests, File Transferes, SQL Injections, File Inclusion / Directory   Traversal / Buffer Overflows]
 - [TryHackMe](https://tryhackme.com/) (Free Fundamental
   Courses, ähnlich zu HackTheBox): [z.B. Networking, Linux, Windows, Web Requests, File Transferes, SQL Injections, File Inclusion / Directory   Traversal / Buffer Overflows]
-- John Hammond (CTFs, Malware Analysis und
-  HTB): [youtube.com/user/RootOfTheNull](https://www.youtube.com/user/RootOfTheNull)
+- John Hammond (CTFs, Malware Analysis und HTB): [youtube.com/user/RootOfTheNull](https://www.youtube.com/user/RootOfTheNull)
 - Virtual
   Memory: [youtube.com/watch?v=qcBIvnQt0Bw&list=PLiwt1iVUib9s2Uo5BeYmwkDFUh70fJPxX](https://www.youtube.com/watch?v=qcBIvnQt0Bw&list=PLiwt1iVUib9s2Uo5BeYmwkDFUh70fJPxX)
 - [book.hacktricks.xyz/](https://book.hacktricks.xyz/)
