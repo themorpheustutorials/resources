@@ -54,6 +54,7 @@ nav:
       - 'Web Entwicklung (Client)': blogs/web-client.md
   - 'Software':
       - 'Software Engenering': software/software-engenering.md
+      - 'Problem solving': software/problem-solving.md
       - 'Tools': software/tools.md
       - 'AI': software/ai.md
       - 'BSD': software/bsd.md
