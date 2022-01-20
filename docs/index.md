@@ -8,3 +8,4 @@ Ihr könnt durch Pull Requests auf GitHub eigene Resourcen hinzufügen.
 - CrashCourse, Kurse zu fast allem, von Philosophie zu Physik und
   Informatik. [youtube.com/channel/UCX6b17PVsYBQ0ip5gyeme-Q](https://www.youtube.com/channel/UCX6b17PVsYBQ0ip5gyeme-Q)
 - SemperVideo (Alles in Richtung Informatik): [youtube.com/user/SemperVideo](https://www.youtube.com/user/SemperVideo)
+- Übersicht typischer Berufe im Feld der IT-Security gibt es im [cybersecurityguide](https://cybersecurityguide.org/careers/). Außerdem Informationen zu möglichen Abschlüssen und Zertifikaten.
